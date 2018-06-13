@@ -19,7 +19,8 @@ public class MatrixApplication {
         String line;
 
         System.out.println("Hello! \n" +
-                "What would you like to calculate? Enter \"S\" for Sum, \"M\" for Multiply, \"D\" for Determinant");
+                "What would you like to calculate? Enter \"S\" for Sum, \"M\" for Multiply, \"D\" for Determinant. \n" +
+                "Enter \"q\" for Quit.");
         while (!(line = reader.readLine()).equals("q")) {
             switch (line) {
                 case "S": {
@@ -57,7 +58,8 @@ public class MatrixApplication {
                 }
                 default:
                     System.out.println("I'am not understand. Please enter once again.");
-                    System.out.println("What would you like to calculate? Enter \"S\" for Sum, \"M\" for Multiply, \"D\" for Determinant");
+                    System.out.println("What would you like to calculate? Enter \"S\" for Sum, \"M\" for Multiply, \"D\" for Determinant. \n" +
+                "Enter \"q\" for Quit.");
             }
         }
     }

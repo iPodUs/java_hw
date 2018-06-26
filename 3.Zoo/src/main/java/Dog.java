@@ -30,6 +30,6 @@ public class Dog extends Animal {
     }
 
     public String toString(){
-        return "Собака " + this.getName() + " по кличке " + this.getNickname();
+        return String.format("Собака %s по кличке %s",this.getName(),this.getNickname());
     }
 }

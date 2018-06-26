@@ -17,7 +17,7 @@ public class Whale extends Animal {
     }
 
     public String toString(){
-        return this.getLength() > 0 ? "Кит " + this.getName() + " длиной " + this.getLength() + " метра(ов)" :
-                "Кит " + this.getName() + ". Неизвестной длины";
+        return this.getLength() > 0 ? String.format("Кит %s длиной %s метра(ов)",this.getName(),this.getLength()) :
+                String.format("Кит %s. Неизвестной длины",this.getName());
     }
 }

@@ -16,6 +16,6 @@ public class Horse extends Animal {
     }
 
     public String toString(){
-        return "Лошадь " + this.getName() + " масти " + this.getCoat_colors();
+        return String.format("Лошадь %s масти %s", this.getName(), this.getCoat_colors());
     }
 }

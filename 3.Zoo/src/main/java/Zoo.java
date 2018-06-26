@@ -1,4 +1,4 @@
-package com.ipodushin.java_edu.task.task3;
+package main.java;
 
 import java.util.HashSet;
 import java.util.Set;

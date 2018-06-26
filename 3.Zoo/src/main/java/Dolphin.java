@@ -1,4 +1,4 @@
-package com.ipodushin.java_edu.task.task3;
+package main.java;
 
 public class Dolphin extends Whale {
     public Dolphin(String name) {

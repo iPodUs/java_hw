@@ -1,4 +1,4 @@
-package com.ipodushin.java_edu.task.task3;
+package main.java;
 
 public class Horse extends Animal {
     private String coat_colors;

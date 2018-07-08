@@ -34,7 +34,5 @@ abstract public class Employee implements Valuable {
         return signatureRight;
     }
 
-    public void work() {
-
-    }
+    abstract public void work();
 }

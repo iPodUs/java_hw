@@ -1,6 +1,6 @@
-package main.java;
+package ru.edu.javalearn.services;
 
-import main.java.exceptions.*;
+import ru.edu.javalearn.exceptions.*;
 
 public class Validator {
     public static final int OPRND_LENGTH = 4;

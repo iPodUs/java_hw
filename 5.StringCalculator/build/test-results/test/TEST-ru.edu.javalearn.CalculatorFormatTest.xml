@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.edu.javalearn.CalculatorFormatTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-08-04T12:17:02" hostname="iPod-MacBook-Pro.local" time="0.023">
+  <properties/>
+  <testcase name="shouldReturnExceptionWhenArgumentMore4Symbols" classname="ru.edu.javalearn.CalculatorFormatTest" time="0.018"/>
+  <testcase name="shouldReturnRightResultWithBrackets" classname="ru.edu.javalearn.CalculatorFormatTest" time="0.002"/>
+  <testcase name="shouldReturnRightResultWithSpaces" classname="ru.edu.javalearn.CalculatorFormatTest" time="0.001"/>
+  <system-out><![CDATA[Размер аргумента превышает ограничение в 4 символа
+Ошибка валидации!
+Вычислить не удалось!
+Размер аргумента превышает ограничение в 4 символа
+Ошибка валидации!
+Вычислить не удалось!
+Размер аргумента превышает ограничение в 4 символа
+Ошибка валидации!
+Вычислить не удалось!
+Размер аргумента превышает ограничение в 4 символа
+Ошибка валидации!
+Вычислить не удалось!
+Размер аргумента превышает ограничение в 4 символа
+Ошибка валидации!
+Вычислить не удалось!
+Размер аргумента превышает ограничение в 4 символа
+Ошибка валидации!
+Вычислить не удалось!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

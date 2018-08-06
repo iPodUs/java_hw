@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.edu.javalearn.CalculatorSubtractionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-08-04T12:17:02" hostname="iPod-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="shouldReturn4WhenArgument7And3" classname="ru.edu.javalearn.CalculatorSubtractionTest" time="0.0"/>
+  <testcase name="shouldReturnMinus4WhenArgumentMinus7AndMinus3" classname="ru.edu.javalearn.CalculatorSubtractionTest" time="0.0"/>
+  <testcase name="shouldReturn10WhenArgument7AndMinus3" classname="ru.edu.javalearn.CalculatorSubtractionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

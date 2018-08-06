@@ -1,4 +1,4 @@
-package main.java.exceptions;
+package ru.edu.javalearn.exceptions;
 
 public class ArithmeticOperatorNotFindException extends Exception {
 

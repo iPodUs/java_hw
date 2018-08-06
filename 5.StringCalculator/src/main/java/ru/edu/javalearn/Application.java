@@ -1,4 +1,6 @@
-package main.java;
+package ru.edu.javalearn;
+
+import ru.edu.javalearn.services.Calculator;
 
 import java.io.BufferedReader;
 import java.io.IOException;

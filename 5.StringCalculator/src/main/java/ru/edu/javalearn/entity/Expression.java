@@ -1,4 +1,4 @@
-package main.java;
+package ru.edu.javalearn.entity;
 
 public class Expression {
     private double operandLeft;
